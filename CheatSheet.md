@@ -11,3 +11,4 @@
 10. __git branch -d :__ only delete the branch already merged
 11. __git branch -D :__ delete the branch anyway
 12. __git tag :__ give your code a vision tag
+13. __git ls-tree :__ list files in a path or a branch
